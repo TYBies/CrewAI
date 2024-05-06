@@ -1,4 +1,4 @@
-I'm a Work in Progress. This projects were copied from CrewAI-Examples and edited to as required. 
+These were cloned from CrewAI-Examples and refactored to meet my needs. 
 below is the link to the main documentation .
 <h3>
 
